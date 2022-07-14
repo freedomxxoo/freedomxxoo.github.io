@@ -16,18 +16,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://iewuohz0210.asuscomm.com:4433/AICLOUD1816350084/555.json"
+      "ext": "https://freedomxxoo.github.io/555.json"
     },
-	{
-      "key": "csp_xpath_bdys",
-      "name": "bdys(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://iewuohz0210.asuscomm.com:4433/AICLOUD1608955466/bdys.json"
-    },
+
 {"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/zaixiandianying8.json"},
 {"key":"csp_XBiubiubiubiu_蓝光影视","name":"蓝光🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"},
 {"key":"csp_XBiubiu_厂长资源","name":"厂长资源🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freedomxxoo.github.io/maoys/厂长资源-蓝光.json"},
